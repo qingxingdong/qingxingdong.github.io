@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Qingxing Dong"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ Hi! I’m Qingxing Dong, an Associate Professor in the [School of Journalism and
 
  招收硕士生（提前进实验室的本科生），欢迎对我的研究领域感兴趣，且诚实守信、勤奋坚毅、积极上进、身心健康的同学。如满足如下条件，请通过 Email 与我联系:
 
-- 逻辑思维强，有一定的数学与计算机基础（计算传播方向）或实证研究基础（信息行为方向）
+- 有一定的数学与计算机基础（计算传播方向）**或**实证研究基础（信息行为方向）
 
 - 具有一定的英语阅读和写作能力
 
@@ -29,7 +29,7 @@ Hi! I’m Qingxing Dong, an Associate Professor in the [School of Journalism and
 
 经过研究生（本科生）阶段的学习，希望你能够：
 
--如果继续学术研究：严格训练，打好基础。我会尽我所能向国内外同行推荐
+- 如果继续学术研究：严格训练，打好基础。我会尽我所能向国内外同行推荐
 
--如果想要投身业界：早日达到毕业标准，学习相关工作技能知识。我会尽我所能向企业推荐实习 
+- 如果想要投身业界：早日达到毕业标准，学习相关工作技能知识。我会尽我所能向企业推荐实习 
 
