@@ -4,9 +4,8 @@ collection: publications
 permalink: /publication/2022-01-01-paper-title-number-1
 date: 2022-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Qingxing Dong ∗ , Qi Sheng , Luis Maríınez , Zhen Zhang ∗ . An Adaptive Group Decision Making
-Framework: Individual and Local World Opinions Based Opinion Dynamics [J]. Information
+Framework: Individual and Local World Opinions Based Opinion Dynamics. Information
 Fusion. 2022, 78:218-231.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
