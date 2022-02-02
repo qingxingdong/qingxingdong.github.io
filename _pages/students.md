@@ -8,12 +8,12 @@ author_profile: true
 ## 华中师范大学
 ### 本科生
 
-- 2021届:郝敬贞(南京大学，硕士);齐艺(武汉大学，硕士);晋兆雨(电 子科技大学，硕士);董迪迪(华中师范大学，硕士)
-- 2020届:衷梓芮(武汉大学，硕士);周琼宇(中央财经大学，硕士);李鑫 (哥本哈根大学，硕士)
-- 2019 届:宋志君(华中师范大学，硕士);张倍思(华中师范大学，硕士); 李春梅(中山大学，硕士);蔡静(North Carolina State University ，硕士); 毛凤华(中科院软件所，硕士)
-- 2018届:李华阳(腾讯AILab，助理研究员);黄欣盈(StockholmUniversity ，硕士);高正罡(Stockholm University ，硕士);刘尧宗(字节跳动);周 涵(中国科学技术大学，硕士)
-- 2017届:杨明(华中师范大学，硕士);盛琦(华中师范大学，硕士);余黄 樱子(武汉大学，硕士);田皓(Northeastern University , 硕士)，许凯伦(Texas A&M University ，硕士)
-- 2016 届:周欣(华中师范大学，硕士);戴怡清(武汉大学，硕士);胡金 (Technische Universität Berlin & KTH Royal Institude of Technology ，硕 士);王谦(阿里巴巴)
+- 2021届: 郝敬贞(南京大学，硕士); 齐艺(武汉大学，硕士); 晋兆雨(电子科技大学，硕士); 董迪迪(华中师范大学，硕士)
+- 2020届: 衷梓芮(武汉大学，硕士); 周琼宇(中央财经大学，硕士); 李鑫(哥本哈根大学，硕士)
+- 2019届: 宋志君(华中师范大学，硕士); 张倍思(华中师范大学，硕士); 李春梅(中山大学，硕士); 蔡静(North Carolina State University，硕士); 毛凤华(中科院软件所，硕士)
+- 2018届: 李华阳(腾讯AILab，助理研究员); 黄欣盈(StockholmUniversity，硕士); 高正罡(Stockholm University，硕士); 刘尧宗(字节跳动); 周 涵(中国科学技术大学，硕士)
+- 2017届: 杨明(华中师范大学，硕士); 盛琦(华中师范大学，硕士); 余黄 樱子(武汉大学，硕士); 田皓(Northeastern University, 硕士); 许凯伦(Texas A&M University，硕士)
+- 2016届: 周欣(华中师范大学，硕士); 戴怡清(武汉大学，硕士); 胡金 (Technische Universität Berlin & KTH Royal Institude of Technology，硕士); 王谦(阿里巴巴)
 
 ### 研究生
 
