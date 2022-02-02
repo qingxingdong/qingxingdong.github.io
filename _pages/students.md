@@ -19,5 +19,5 @@ author_profile: true
 
 - 2021届:王雪(宁波银行，测试工程师);盛琦(长江航运，数据分析工程师);朱美奇(西湖欧米杭州生物科技，AI 工程师);钱蔡明(宁波银行，运维工程师);李子玄(科大讯飞，算法工程师);黄弘毅(长沙银行，NLP研发工程师)
 - 2020 届:杨明(Singapore Management University，PhD)
-- 2019 届:周欣(University of Amsterdam ，PhD)
+- 2019 届:周欣(University of Amsterdam，PhD)
 -  2016届:李赛(与张大斌教授共同指导，携程，数据分析工程师)
