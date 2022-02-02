@@ -11,49 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Transportation, Ludong University, 2004.09-2008.07
+* M.S. in Business Management, Northeastern University, Supervisor: Yajun Guo, 2008.09 -2010.07
+* Ph.D in Managment Science & Engineering, Northeastern University, Supervisor: Yajun Guo,2010.09-2014.01 
+* Joint Training Ph.D., University of Pittsburgh, Katz Graduate School of Business, Operations, Decision Sciences and Artificial Intelligence.
+Supervisor: Professor Thomas L. Saaty(Member of National Academy of Engineering)，2011.08-2013.09
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor, School of Information Management, Central China Normal University, 2014.01-2016.06
+* Associate Professor, School of Information Management, Central China Normal University, 2016.07-2021.12
+* Associate Professor, School of Journalism and Communication, Wuhan University, Wuhan University, 2022.01- 
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
