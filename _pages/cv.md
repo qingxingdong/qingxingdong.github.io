@@ -15,7 +15,7 @@ Education
 * M.S. in Business Management, Northeastern University, Supervisor: Yajun Guo, 2008.09 -2010.07
 * Ph.D in Managment Science & Engineering, Northeastern University, Supervisor: Yajun Guo,2010.09-2014.01 
 * Joint Training Ph.D., University of Pittsburgh, Katz Graduate School of Business, Operations, Decision Sciences and Artificial Intelligence.
-Supervisor: Professor Thomas L. Saaty(Member of National Academy of Engineering)，2011.08-2013.09
+Supervisor: Thomas L. Saaty(Member of National Academy of Engineering)，2011.08-2013.09
 
 Work experience
 ======
