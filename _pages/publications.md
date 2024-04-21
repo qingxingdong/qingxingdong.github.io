@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-1. **Qingxing Dong(董庆兴)** * , Qi Sheng , Luis Maríınez , Zhen Zhang * . An Adaptive Group Decision Making Framework: Individual and Local World Opinions Based Opinion Dynamics[J]. Information Fusion. 2022, 78:218-231. SCI 检索，2022 影响因子 18.6, 分区排名第 2（共 111）
-2. Yuxing Qian, Wenxuan Gui, Feicheng Ma ∗ , **Qingxing Dong(董庆兴)**  ∗ . Exploring Features of Social Support in a Chinese Online Smoking Cessation Community: A Multidimensional Content Analysis of User Interaction Data[J]. Health Informatics Journal.2021, 27(2):14604582211021472. SSCI 检索，2021 影响因子 2.932, 分区排名
+1. **Qingxing Dong(董庆兴)** * , Siyue Xiong , Mengyi Zhang. Remedial behavior for misinformation: A moderated mediation model of remedial attitude and perceived consequence severity [J]. Technology in Society. 2024, 77:102544. SSCI收录，2022 影响因子9.2,分区排名第1（共110）
+2. **Qingxing Dong(董庆兴)** * , Qi Sheng , Luis Maríınez , Zhen Zhang * . An Adaptive Group Decision Making Framework: Individual and Local World Opinions Based Opinion Dynamics[J]. Information Fusion. 2022, 78:218-231. SCI 检索，2022 影响因子 18.6, 分区排名第 2（共 111）
+3. Yuxing Qian, Wenxuan Gui, Feicheng Ma ∗ , **Qingxing Dong(董庆兴)**  ∗ . Exploring Features of Social Support in a Chinese Online Smoking Cessation Community: A Multidimensional Content Analysis of User Interaction Data[J]. Health Informatics Journal.2021, 27(2):14604582211021472. SSCI 检索，2021 影响因子 2.932, 分区排名
 第 12（共 27）
-3. **Qingxing Dong(董庆兴)** ∗, Xin Zhou, Luis Martínez. A Hybrid Group Decision Making Framework for Achieving Agreed Solutions based on Stable Opinions[J]. Information Sciences . 2019, 490：227-243.SCI 检索，2018 影响因子 5.524，JCR Q1 区，分区排名第 9（共 155）
-4. Zhen Zhang, Xinyue Kou, **Qingxing Dong(董庆兴)** ∗ . Additive consistency analysis and improvement for hesitant fuzzy preference relations[J]. Expert Systems with Applications. 2018, 98：118-128. SCI检索，**ESI 高被引论文**，2018 影响因子 4.292，JCR Q1 区，分区排名第 7（共 84）
+4. **Qingxing Dong(董庆兴)** ∗, Xin Zhou, Luis Martínez. A Hybrid Group Decision Making Framework for Achieving Agreed Solutions based on Stable Opinions[J]. Information Sciences . 2019, 490：227-243.SCI 检索，2018 影响因子 5.524，JCR Q1 区，分区排名第 9（共 155）
+5. Zhen Zhang, Xinyue Kou, **Qingxing Dong(董庆兴)** ∗ . Additive consistency analysis and improvement for hesitant fuzzy preference relations[J]. Expert Systems with Applications. 2018, 98：118-128. SCI检索，**ESI 高被引论文**，2018 影响因子 4.292，JCR Q1 区，分区排名第 7（共 84）
 5. **Qingxing Dong(董庆兴)**, Kèyù ZHÜ，Orrin Cooper ∗ . Gaining consensus in a moderated group: a model with a twofold feedback mechanism[J]. Expert Systems with Applications. 2017, 71：87-97. SCI&SSCI 检索，2017 影响因子 3.768，JCR Q1 区，分区排名第 8（共 84）
 6.  **Qingxing Dong(董庆兴)**, Orrin Cooper ∗ . An orders-of-magnitude AHP supply chain risk assessment framework[J]. International Journal of Production Economics. 2016, 182: 144-156. SCI&SSCI 检索，2016 影响因子 3.493，JCR Q1 区，分区排名第 6（共 83）
 7. **Qingxing Dong(董庆兴)** ∗ , Orrin Cooper. A peer-to-peer dynamic adaptive consensus reaching model for the group AHP decision making[J]. European Journal of Operational Research. 2016, 250(2): 521-530. SCI&SSCI 检索，2016 影响因子 3.297，JCR Q1 区，分区排名第 7（共83）
