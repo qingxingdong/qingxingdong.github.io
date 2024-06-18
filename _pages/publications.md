@@ -16,7 +16,7 @@ author_profile: true
 10.  **Qingxing Dong(董庆兴)**  ∗ , Yajun Guo. Multiperiod multiattribute decision-making method based on trend incentive coefficient[J]. International Transactions in Operational Research. 2013, 20(1): 141-152. SCI&SSCI 检索，2013 影响因子 0.481，JCR Q4 区，分区排名第70（共79）
 11. Orrin Cooper ∗ , **Qingxing Dong(董庆兴)**. Bilateral relations between China and the United States: Policy prioritization with the ANP[J]. Journal of Systems Science and Systems Engineering. 2013, 22(2): 202-226. SCI 检索，2013 影响因子 0.566，JCR Q4 区，分区排名第 63（共 79）
 12.  Kèyù ZHÜ ∗ , Orrin Cooper, Shanlin Yang, **Qingxing Dong(董庆兴)**. An Extension of the AHP Dummy Pivot Modeling Applied to the Restructuring of the Iron and Steel Industry in China[J]. IEEE Transactions on Engineering Management, 2013, 61(2):370-380.SCI&SSCI 检索，2017 影响因子0.938，JCR Q3 区，分区排名第 28（共 43）
-13.  **董庆兴** 王雪宁, 熊思玥. 纠正是否有效？——纠正方式和错误健康信息启发式线索的影响研究[J]. 新闻与传播研究. 2024,31(4):65-80. CSSCI 检索
+13.  **董庆兴** , 王雪宁, 熊思玥. 纠正是否有效？——纠正方式和错误健康信息启发式线索的影响研究[J]. 新闻与传播研究. 2024,31(4):65-80. CSSCI 检索
 14.  **董庆兴**∗, 张梦毅, 熊思玥. 信息生态视阈下的社交媒体错误信息分享研究：从相信到转发 [J]. 情报科学. 2023,41(11):72-84. CSSCI 检索
 15. 王雪宁, **董庆兴**∗, 宋志君, 张斌. 社交媒体上的错误信息防控研究评述 [J]. 信息资源管理学报. 2022,12(5):102-113. CSSCI 检索
 16. 吴诗苑, **董庆兴** , 宋志君, 张斌. 社交媒体中的错误信息检测方法研究述评 [J]. 情报学报. 2022,41(6):651-661. CSSCI 检索
