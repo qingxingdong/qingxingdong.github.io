@@ -21,7 +21,8 @@ Work experience
 ======
 * Assistant Professor, School of Information Management, Central China Normal University, 2014.01-2016.06
 * Associate Professor, School of Information Management, Central China Normal University, 2016.07-2021.12
-* Associate Professor, School of Journalism and Communication, Wuhan University, Wuhan University, 2022.01- 
+* Associate Professor, School of Journalism and Communication, Wuhan University, Wuhan University, 2022.01- 2024.11
+* Professor, School of Journalism and Communication, Wuhan University, Wuhan University, 2024.11- 
   
 
 
