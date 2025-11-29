@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 1. Mengyi Zhang, **Qingxing Dong(董庆兴)** *, Xiaozhen Wu. How misinformation diffuses on online social
-networks: radical opinions, adaptive relationship and algorithmic intervention [J]. IEEE Transactions on Computational Social Systems. 2024, DOI: 10.1109/TCSS.2024.350266. SCI 检索，2023 影响因子 4.5, 分区排名第 6（共 32）
-2.  **Qingxing Dong(董庆兴)** * , Siyue Xiong , Mengyi Zhang. Remedial behavior for misinformation: A moderated mediation model of remedial attitude and perceived consequence severity [J]. Technology in Society. 2024, 77:102544. SSCI检索，2023 影响因子10.1,分区排名第2（共267）
+networks: radical opinions, adaptive relationship and algorithmic intervention [J]. IEEE Transactions on Computational Social Systems. 2025, 12(5):2047-2061. SCI 检索，2024 影响因子 4.9, 分区排名第 6（共 32）
+2.  **Qingxing Dong(董庆兴)** * , Siyue Xiong , Mengyi Zhang. Remedial behavior for misinformation: A moderated mediation model of remedial attitude and perceived consequence severity [J]. Technology in Society. 2024, 77:102544. SSCI检索，2024 影响因子12.5,分区排名第2（共273）
 3. **Qingxing Dong(董庆兴)** * , Qi Sheng , Luis Maríınez , Zhen Zhang * . An Adaptive Group Decision Making Framework: Individual and Local World Opinions Based Opinion Dynamics[J]. Information Fusion. 2022, 78:218-231. SCI 检索，2022 影响因子 18.6, 分区排名第 2（共 111）
 4. Yuxing Qian, Wenxuan Gui, Feicheng Ma ∗ , **Qingxing Dong(董庆兴)**  ∗ . Exploring Features of Social Support in a Chinese Online Smoking Cessation Community: A Multidimensional Content Analysis of User Interaction Data[J]. Health Informatics Journal.2021, 27(2):14604582211021472. SSCI 检索，2021 影响因子 2.932, 分区排名第 12（共 27）
 5. **Qingxing Dong(董庆兴)** ∗, Xin Zhou, Luis Martínez. A Hybrid Group Decision Making Framework for Achieving Agreed Solutions based on Stable Opinions[J]. Information Sciences . 2019, 490：227-243.SCI 检索，2018 影响因子 5.524，JCR Q1 区，分区排名第 9（共 155）
